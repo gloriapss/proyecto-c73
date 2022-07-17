@@ -1,2 +1,2 @@
-# Biblioteca digital-c73-boiler-plate
-Operación de manejo y función de elegibilidad añadidas
+# PRO-C73-PROYECTO
+Código de solución del proyecto
